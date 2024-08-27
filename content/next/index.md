@@ -47,6 +47,12 @@ Maps: [https://maps.app.goo.gl/YqDTk7A1zASMjQat8](https://maps.app.goo.gl/YqDTk7
 
 Thank you to [Harness](https://harness.io) for hosting us and [Okteto](https://okteto.com) for the food!
 
+<div>
+<img src="/img/okteto.png" alt="okteto" width="170" style="display: inline-block; vertical-align: middle; margin-right: 10px;"/>
+<img src="/img/harness.jpg" alt="harness" width="200" style="display: inline-block; vertical-align: middle;"/>
+
+</div>
+
 ## Code of Conduct
 
 This meetup will be governed by the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md). By signing up for the event and attending, you acknowledge your adherence to this code of conduct. If you feel the code of conduct has been violated, please reach out to the organizers.

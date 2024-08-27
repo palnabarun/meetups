@@ -44,3 +44,6 @@ url = "/meetups"
 [[params.menu]]
 name = "code of conduct"
 url = "/coc"
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
