@@ -14,6 +14,7 @@ This is a great opportunity to network with like-minded individuals and learn fr
 Interested in speaking at the event?
 
 Please make sure your submitted talks are related to one of the following:
+
 - Internal Developer Platforms
 - Cloud Development Environments
 - Cloud Native tools and technologies
@@ -26,6 +27,8 @@ You can submit a talk proposal here: https://sessionize.com/blr-platform-enginee
 ## RSVP
 
 Sign up to attend: https://forms.gle/XuDJSJusE2xRdRkX7
+Date: 14th September, 2024
+Time: 10:30am - 12:30pm
 
 ## Where
 
@@ -44,6 +47,7 @@ This meetup will be governed by the [CNCF Code of Conduct](https://github.com/cn
 ## Organizers
 
 Details of organizers along with contact information.
+
 - Nabarun Pal, Kubernetes Maintainer and Steering Committee Member: foss@nabarun.dev
-- Prithvi Raj, Technical Community Manager at Harness: prithvi@chaosnative.com
+- Prithvi Raj, Technical Community Manager at Harness: prithvi.raj@harness.io
 - Arsh Sharma, Developer Experience Engineer at Okteto: hey@arshsharma.com
