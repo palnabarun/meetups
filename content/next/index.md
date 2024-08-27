@@ -9,7 +9,7 @@ During this meetup, we will have technical talks from industry experts on variou
 
 This is a great opportunity to network with like-minded individuals and learn from experienced professionals in the cloud-native landscape. We welcome all levels of expertise and backgrounds. So whether you're interested in learning more about platform engineering and cloud technologies or simply looking to connect with others in the industry, join us!
 
-![image from prev meetup](./prev.jpg)
+![image from prev meetup](/img/dec-meetup-group-photo.jpg)
 _A photo from our previous Platform Engineering meetup!_
 
 ## Call for Speakers
@@ -35,7 +35,7 @@ Sign up to attend: https://forms.gle/XuDJSJusE2xRdRkX7
 
 **Time**: 10:30am - 12:30pm
 
-![promo image](promo.png)
+![promo image](/img/sept-meetup-promo.png)
 
 ## Where
 
