@@ -53,9 +53,19 @@ Thank you to [Harness](https://harness.io) for hosting us and [Okteto](https://o
 
 </div>
 
-## Code of Conduct
+## Agenda
 
-This meetup will be governed by the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md). By signing up for the event and attending, you acknowledge your adherence to this code of conduct. If you feel the code of conduct has been violated, please reach out to the organizers.
+| Time     | Agenda                |
+| -------- | --------------------- |
+| 10:00 AM | Introductions         |
+| 10:30 AM | Talk                  |
+| 11:00 AM | Talk                  |
+| 11:30 AM | Coffee/Tea Break      |
+| 11:45 AM | Talk                  |
+| 12:15 PM | Talk                  |
+| 12:45 PM | Snacks and Open House |
+
+> _Talks would be updated after CFPs close_
 
 ## Organizers
 
