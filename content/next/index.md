@@ -20,7 +20,7 @@ _A photo from our previous Platform Engineering meetup!_
 
 Title: Why We Chose To Build a Developer Platform on Top of Kubernetes
 
-Abstract: A lot of organizations are looking to build/adopt a platform seeing all the benefits in producity and developer experince it brings. At Okteto we built a platform on top of KUbernetes whihc provides developers with cloud native develop envionrment. In this talk, I will cover what Kubernetes based dev environmetns are, the impact they have on dev producitivyt and why we chose KUbernetes to build such a platform.
+Abstract: A lot of organizations are looking to build/adopt a platform seeing all the benefits in productivity and developer experience it brings. At Okteto, we built a platform on top of Kubernetes which provides developers with cloud-native development environments. In this talk, I will cover what Kubernetes-based development environments are, the impact they have on developer productivity, and why we chose Kubernetes to build such a platform.
 
 Speaker: Arsh Sharma
 
